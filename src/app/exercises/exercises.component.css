@@ -1,0 +1,9 @@
+.exercise {
+    width: 500px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 15px;
+    font-size: 27px;
+    display: block;
+}

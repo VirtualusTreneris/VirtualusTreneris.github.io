@@ -1,0 +1,80 @@
+[
+	{"name": "Kojos", "children": 
+		[
+			{"name": "Pratimas1", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Pratimas2", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Pratimas3", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Pratimas4", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"}
+		]
+	}, 
+	{"name": "Presas", "children": 
+		[
+			{"name": "Pratimas1", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Pratimas2", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Pratimas3", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"}
+		]
+	}, 
+	{"name": "Rankos", "children": 
+		[
+			{"name": "Bicepso Pratimas 1", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Bicepso Pratimas 2", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Bicepso Pratimas 3", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Bicepso Pratimas 4", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Bicepso Pratimas 5", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Bicepso Pratimas 6", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Bicepso Pratimas 7", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Bicepso Pratimas 8", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Bicepso Pratimas 9", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Bicepso Pratimas 10", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Tricepso Pratimas 1", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Tricepso Pratimas 2", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Tricepso Pratimas 3", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Tricepso Pratimas 4", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Tricepso Pratimas 5", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Tricepso Pratimas 6", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Tricepso Pratimas 7", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Tricepso Pratimas 8", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"}
+		]
+	},
+	{"name": "Pečiai", "children": 
+		[
+			{"name": "Pečių Pratimas 1", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Pečių Pratimas 2", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Pečių Pratimas 3", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Pečių Pratimas 4", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Pečių Pratimas 5", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Pečių Pratimas 6", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Pečių Pratimas 7", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Pečių Pratimas 8", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Pečių Pratimas 9", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Pečių Pratimas 10", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"}
+		]
+	},
+	{"name": "Krutinė", "children": 
+		[
+			{"name": "Krutinės Pratimas 1", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Krutinės Pratimas 2", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Krutinės Pratimas 3", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Krutinės Pratimas 4", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Krutinės Pratimas 5", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"}
+		]
+	},
+	{"name": "Nugara", "children": 
+		[
+			{"name": "Nugaros Pratimas 1", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Nugaros Pratimas 2", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Nugaros Pratimas 3", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Nugaros Pratimas 4", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Nugaros Pratimas 5", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"}
+		]
+	},
+	{"name": "Kardio", "children": 
+		[
+			{"name": "Kardio 1", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Kardio 2", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Kardio 3", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Kardio 4", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
+			{"name": "Kardio 5", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"}
+		]
+	}
+]

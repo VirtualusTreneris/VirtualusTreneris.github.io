@@ -1,0 +1,11 @@
+<div class="exercises" >
+  <div class="wrapper p100" *ngIf="!isExerciseSelected">
+    <ng-container *ngFor="let exercise of category?.children">
+      
+      <a (click)="handleClick(exercise)" class="btn-link exercise"><i class="fa fa-youtube"></i>{{ exercise.name }}</a>
+    </ng-container>
+  </div>
+
+<app-video *ngIf="isExerciseSelected"></app-video>
+
+</div>
