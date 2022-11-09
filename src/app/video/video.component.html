@@ -1,5 +1,5 @@
 <div class="video-wrapper p50" *ngIf="loaded">
-  <youtube-player [videoId]="parseYoutubeId(exercise?.url)" suggestedQuality="highres" [height]="height" [width]="width"
+  <youtube-player [videoId]="parseYoutubeId(exercise?.url)" suggestedQuality="highres" [height]="height" [width]="width" (stateChange)="onStateChange($event)"
     (ready)="playVideo()" #ytPlayer>
   </youtube-player>
 </div>

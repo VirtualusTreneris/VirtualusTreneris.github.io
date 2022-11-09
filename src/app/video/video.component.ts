@@ -19,6 +19,12 @@ export class VideoComponent implements OnInit, OnDestroy {
   width: number = 500;
   height: number = 250;
 
+  redirectTimer: any;
+  redirectTimerDelays: { ended: number, paused: number } = {
+    ended: 20000,
+    paused: 300000
+  }
+
   @ViewChild('ytPlayer')
   player!: YouTubePlayer;
 
@@ -64,4 +70,22 @@ export class VideoComponent implements OnInit, OnDestroy {
     return ''
   }
 
+  onStateChange = ({ data: state }: { data: number }) => {
+    if (state === YT.PlayerState.PAUSED) {
+      this.redirectToFrontPage(this.redirectTimerDelays.paused);
+    } else if (state === YT.PlayerState.PLAYING) {
+      clearTimeout(this.redirectTimer);
+    } else if (state === YT.PlayerState.ENDED) {
+      this.redirectToFrontPage(this.redirectTimerDelays.ended);
+    }
+  }
+
+  redirectToFrontPage = (delay: number) => {
+    this.redirectTimer = setTimeout(() => {
+      this.configurationService.page = this.configurationService.pages[0];
+      this.configurationService.category = null;
+      this.configurationService.exercise = null;
+      this.configurationService.title = '';
+    }, delay);
+  }
 }

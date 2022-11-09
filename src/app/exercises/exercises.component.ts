@@ -17,7 +17,6 @@ export class ExercisesComponent implements OnInit, OnDestroy {
   constructor(private configurationService: ConfigurationService) { }
 
   ngOnInit(): void {
-    console.log();
     this.categories = this.configurationService.categories ?? [];
     this.category = this.configurationService.category;
 
