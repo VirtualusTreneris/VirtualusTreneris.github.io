@@ -5,7 +5,7 @@ body {
 
 
 body {
-    margin: 0px;;
+    margin: 0px;
     background-image: url(/assets/background/bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -50,7 +50,7 @@ a.btn-link{
     background-color: #de2c1c;
     color: #fff;
     font-family: Trebuchet MS;
-    font-size: 54px;
+    font-size: 100px;
     font-weight: 800;
     font-style: normal;
     text-decoration: none;

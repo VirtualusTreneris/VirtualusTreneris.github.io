@@ -1,81 +1,48 @@
 [
-	{"name": "Kojos", "children": 
+	{"name": "FUNKCINĖ", "children": 
 		[
-			{"name": "Pratimas1", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Pratimas2", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Pratimas3", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Pratimas4", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"}
+			{"name": "Mindaugas Funkcine 1 51min", "url": "https://www.youtube.com/watch?v=X09TiH5VaGo"},
+			{"name": "Mindaugas Funkcine 4 34min", "url": "https://www.youtube.com/watch?v=MywAP2ikqGE"},
+			{"name": "Anastasia Funkcine 1 26 31min", "url": "https://www.youtube.com/watch?v=74AK6JRgCeA"},
+			{"name": "Anastasia Funkcine 2 49 31min", "url": "https://www.youtube.com/watch?v=FsTOHRoQFoA"},
+			{"name": "Mantvile Funkcine 42 47", "url": "https://www.youtube.com/watch?v=YncJjKLNgmE"}
 		]
 	}, 
-	{"name": "Presas", "children": 
+	{"name": "HIIT", "children": 
 		[
-			{"name": "Pratimas1", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Pratimas2", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Pratimas3", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Pratimas4", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"}
+			{"name": "Mindaugas HIT 1 31 38min", "url": "https://www.youtube.com/watch?v=cU-362yzMCY"},
+			{"name": "Mindaugas HIT 2 33 45min", "url": "https://www.youtube.com/watch?v=G3GoBL333iM"},
+			{"name": "Greta Intervaline 20 45min", "url": "https://www.youtube.com/watch?v=GX9fLcnYR7Q"}
+
 		]
 	}, 
-	{"name": "Rankos", "children": 
+	{"name": "TEMPIMAI", "children": 
 		[
-			{"name": "Bicepso Pratimas 1", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Bicepso Pratimas 2", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Bicepso Pratimas 3", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Bicepso Pratimas 4", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Bicepso Pratimas 5", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Bicepso Pratimas 6", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Bicepso Pratimas 7", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Bicepso Pratimas 8", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Bicepso Pratimas 9", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Bicepso Pratimas 10", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Tricepso Pratimas 1", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Tricepso Pratimas 2", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Tricepso Pratimas 3", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Tricepso Pratimas 4", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Tricepso Pratimas 5", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Tricepso Pratimas 6", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Tricepso Pratimas 7", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Tricepso Pratimas 8", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"}
+			{"name": "Greta Tempimai 20 25min", "url": "https://www.youtube.com/watch?v=XH0rKFVgtMQ"},
+			{"name": "Mantvile Tempimai 25 44min", "url": "https://www.youtube.com/watch?v=NYaFRoT-8Ug"}
+		
 		]
 	},
-	{"name": "Pečiai", "children": 
+	{"name": "PILVO PRESAS", "children": 
 		[
-			{"name": "Pečių Pratimas 1", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Pečių Pratimas 2", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Pečių Pratimas 3", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Pečių Pratimas 4", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Pečių Pratimas 5", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Pečių Pratimas 6", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Pečių Pratimas 7", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Pečių Pratimas 8", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Pečių Pratimas 9", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Pečių Pratimas 10", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"}
+			{"name": "Greta Presas 2 16min", "url": "https://www.youtube.com/watch?v=kGzX33OVK34"},
+			{"name": "Presas Anastasia 35 37min", "url": "https://www.youtube.com/watch?v=lqDsGCNXh7k"},
+			{"name": "Mantvile Presas su kamuoliu 20 13min", "url": "https://www.youtube.com/watch?v=TLwCSQAscY4"},
+			{"name": "Mantvile Presas 23 15min", "url": "https://www.youtube.com/watch?v=p0VN2j-HBz4"}
+
 		]
 	},
-	{"name": "Krutinė", "children": 
+	{"name": "TRX", "children": 
 		[
-			{"name": "Krutinės Pratimas 1", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Krutinės Pratimas 2", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Krutinės Pratimas 3", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Krutinės Pratimas 4", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Krutinės Pratimas 5", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"}
+			{"name": "Mindaugas TRX 49 19min", "url": "https://www.youtube.com/watch?v=krN5J218p_k"},
+			{"name": "Anastasia TRX 41 52min", "url": "https://www.youtube.com/watch?v=Y1b30zEC6h0"}
+
 		]
 	},
-	{"name": "Nugara", "children": 
+	{"name": "ZUMBA", "children": 
 		[
-			{"name": "Nugaros Pratimas 1", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Nugaros Pratimas 2", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Nugaros Pratimas 3", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Nugaros Pratimas 4", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Nugaros Pratimas 5", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"}
-		]
-	},
-	{"name": "Kardio", "children": 
-		[
-			{"name": "Kardio 1", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Kardio 2", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Kardio 3", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Kardio 4", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"},
-			{"name": "Kardio 5", "url": "https://www.youtube.com/watch?v=bL_xmp4tGiQ"}
+			{"name": "Mantvile Zumba 43 24min", "url": "https://www.youtube.com/watch?v=M_RC19WnbW8"}
+
 		]
 	}
 ]
