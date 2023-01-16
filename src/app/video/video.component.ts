@@ -25,6 +25,11 @@ export class VideoComponent implements OnInit, OnDestroy {
     paused: 300000
   }
 
+  playerVars: YT.PlayerVars = {
+    autoplay: 1,
+    start: 1
+  }
+
   @ViewChild('ytPlayer')
   player!: YouTubePlayer;
 
@@ -53,10 +58,6 @@ export class VideoComponent implements OnInit, OnDestroy {
   updateVideoPlayerSize = (window: any) => {
     this.width = window.innerWidth - 150;
     this.height = window.innerHeight - 150;
-  }
-
-  playVideo = () => {
-    this.player.playVideo();
   }
 
   parseYoutubeId = (url: string | undefined) => {
