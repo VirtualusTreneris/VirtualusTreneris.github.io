@@ -27,7 +27,12 @@ export class VideoComponent implements OnInit, OnDestroy {
 
   playerVars: YT.PlayerVars = {
     autoplay: 1,
-    start: 1
+    start: 1,
+    fs: 0,
+    rel: 0,
+    modestbranding: 1,
+    iv_load_policy: 0,
+    showinfo: 0
   }
 
   @ViewChild('ytPlayer')

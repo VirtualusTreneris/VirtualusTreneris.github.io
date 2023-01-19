@@ -35,6 +35,11 @@ body {
     padding-top: 50px;
 }
 
+.py50 {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
 .exercises, .video-wrapper {
     height: calc(100% - 100px);
 }
@@ -44,7 +49,7 @@ body {
 }
 
 a.btn-link{
-    margin: 5px;
+    margin: 15px;
     cursor: pointer;
     background: linear-gradient(to right,#de2c1c ,#de2c1c);
     background-color: #de2c1c;

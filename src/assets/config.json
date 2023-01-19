@@ -1,47 +1,49 @@
 [
 	{"name": "FUNKCINĖ", "children": 
 		[
-			{"name": "Mindaugas Funkcine 1 51min", "url": "https://www.youtube.com/watch?v=X09TiH5VaGo"},
-			{"name": "Mindaugas Funkcine 4 34min", "url": "https://www.youtube.com/watch?v=MywAP2ikqGE"},
-			{"name": "Anastasia Funkcine 1 26 31min", "url": "https://www.youtube.com/watch?v=74AK6JRgCeA"},
-			{"name": "Anastasia Funkcine 2 49 31min", "url": "https://www.youtube.com/watch?v=FsTOHRoQFoA"},
-			{"name": "Mantvile Funkcine 42 47", "url": "https://www.youtube.com/watch?v=YncJjKLNgmE"}
+			{"name": "Anastasia Funkcine 1", "url": "https://www.youtube.com/watch?v=74AK6JRgCeA"},
+			{"name": "Anastasia Funkcine 2", "url": "https://www.youtube.com/watch?v=FsTOHRoQFoA"},
+			{"name": "Mantvile Funkcine", "url": "https://www.youtube.com/watch?v=YncJjKLNgmE"},
+			{"name": "Mindaugas Funkcine 1", "url": "https://www.youtube.com/watch?v=X09TiH5VaGo"},
+			{"name": "Mindaugas Funkcine 2", "url": "https://www.youtube.com/watch?v=MywAP2ikqGE"}
+
 		]
 	}, 
 	{"name": "HIIT", "children": 
 		[
-			{"name": "Mindaugas HIT 1 31 38min", "url": "https://www.youtube.com/watch?v=cU-362yzMCY"},
-			{"name": "Mindaugas HIT 2 33 45min", "url": "https://www.youtube.com/watch?v=G3GoBL333iM"},
-			{"name": "Greta Intervaline 20 45min", "url": "https://www.youtube.com/watch?v=GX9fLcnYR7Q"}
+			{"name": "Greta Intervaline", "url": "https://www.youtube.com/watch?v=GX9fLcnYR7Q"},
+			{"name": "Mindaugas HIT 1", "url": "https://www.youtube.com/watch?v=cU-362yzMCY"},
+			{"name": "Mindaugas HIT 2", "url": "https://www.youtube.com/watch?v=G3GoBL333iM"}
+			
 
 		]
 	}, 
 	{"name": "TEMPIMAI", "children": 
 		[
-			{"name": "Greta Tempimai 20 25min", "url": "https://www.youtube.com/watch?v=XH0rKFVgtMQ"},
-			{"name": "Mantvile Tempimai 25 44min", "url": "https://www.youtube.com/watch?v=NYaFRoT-8Ug"}
+			{"name": "Greta Tempimai", "url": "https://www.youtube.com/watch?v=XH0rKFVgtMQ"},
+			{"name": "Mantvile Tempimai", "url": "https://www.youtube.com/watch?v=NYaFRoT-8Ug"}
 		
 		]
 	},
 	{"name": "PILVO PRESAS", "children": 
 		[
-			{"name": "Greta Presas 2 16min", "url": "https://www.youtube.com/watch?v=kGzX33OVK34"},
-			{"name": "Presas Anastasia 35 37min", "url": "https://www.youtube.com/watch?v=lqDsGCNXh7k"},
-			{"name": "Mantvile Presas su kamuoliu 20 13min", "url": "https://www.youtube.com/watch?v=TLwCSQAscY4"},
-			{"name": "Mantvile Presas 23 15min", "url": "https://www.youtube.com/watch?v=p0VN2j-HBz4"}
+			{"name": "Anastasia Presas", "url": "https://www.youtube.com/watch?v=lqDsGCNXh7k"},
+			{"name": "Greta Presas", "url": "https://www.youtube.com/watch?v=kGzX33OVK34"},
+			{"name": "Mantvile Presas su kamuoliu", "url": "https://www.youtube.com/watch?v=TLwCSQAscY4"},
+			{"name": "Mantvile Presas", "url": "https://www.youtube.com/watch?v=p0VN2j-HBz4"}
 
 		]
 	},
 	{"name": "TRX", "children": 
 		[
-			{"name": "Mindaugas TRX 49 19min", "url": "https://www.youtube.com/watch?v=krN5J218p_k"},
-			{"name": "Anastasia TRX 41 52min", "url": "https://www.youtube.com/watch?v=Y1b30zEC6h0"}
+			{"name": "Mindaugas TRX 1", "url": "https://www.youtube.com/watch?v=krN5J218p_k"},
+			{"name": "Anastasia TRX 2", "url": "https://www.youtube.com/watch?v=Y1b30zEC6h0"}
 
 		]
 	},
 	{"name": "ZUMBA", "children": 
 		[
-			{"name": "Mantvile Zumba 43 24min", "url": "https://www.youtube.com/watch?v=M_RC19WnbW8"}
+			{"name": "Mantvile Zumba", "url": "https://www.youtube.com/watch?v=M_RC19WnbW8"}
 
 		]
 	}
