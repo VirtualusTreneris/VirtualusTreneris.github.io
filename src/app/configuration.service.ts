@@ -40,6 +40,13 @@ export class ConfigurationService {
     this.data$.next(config);
   }
 
+  redirectToFrontPage = () => {
+    this.page = this.pages[0];
+    this.category = null;
+    this.exercise = null;
+    this.title = '';
+  }
+
   public get categories(): ICategory[] | null {
     return this._configuration;
   }

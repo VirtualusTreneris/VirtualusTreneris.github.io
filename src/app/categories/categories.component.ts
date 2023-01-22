@@ -1,5 +1,4 @@
 import { Component, OnDestroy, OnInit } from '@angular/core';
-import { Router } from '@angular/router';
 import { ConfigurationService } from '../configuration.service';
 import { ICategory } from '../models/configuration.model';
 
@@ -13,8 +12,7 @@ export class CategoriesComponent implements OnInit, OnDestroy {
   categories: ICategory[] | null = [];
   isCategorySelected: boolean = false;
 
-  constructor(private configurationService: ConfigurationService, private router: Router) { 
-  }
+  constructor(private configurationService: ConfigurationService) { }
 
   ngOnInit(): void {
     this.categories = this.configurationService.categories;

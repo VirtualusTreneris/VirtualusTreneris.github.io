@@ -1,8 +1,8 @@
 import { Component, HostListener, OnDestroy, OnInit, ViewChild } from '@angular/core';
-import { ActivatedRoute, Router } from '@angular/router';
 import { YouTubePlayer } from '@angular/youtube-player';
 import { ConfigurationService } from '../configuration.service';
 import { ICategory, IExercise } from '../models/configuration.model';
+import { TimerService } from '../timer.service';
 
 @Component({
   selector: 'app-video',
@@ -19,7 +19,6 @@ export class VideoComponent implements OnInit, OnDestroy {
   width: number = 500;
   height: number = 250;
 
-  redirectTimer: any;
   redirectTimerDelays: { ended: number, paused: number } = {
     ended: 20000,
     paused: 300000
@@ -43,7 +42,7 @@ export class VideoComponent implements OnInit, OnDestroy {
     this.updateVideoPlayerSize(window);
   }
 
-  constructor(private configurationService: ConfigurationService, private route: ActivatedRoute, private router: Router) { }
+  constructor(private configurationService: ConfigurationService, private timerService: TimerService) { }
 
   ngOnInit(): void {
 
@@ -78,20 +77,11 @@ export class VideoComponent implements OnInit, OnDestroy {
 
   onStateChange = ({ data: state }: { data: number }) => {
     if (state === YT.PlayerState.PAUSED) {
-      this.redirectToFrontPage(this.redirectTimerDelays.paused);
+      this.timerService.start(this.redirectTimerDelays.paused);
     } else if (state === YT.PlayerState.PLAYING) {
-      clearTimeout(this.redirectTimer);
+      this.timerService.stop();
     } else if (state === YT.PlayerState.ENDED) {
-      this.redirectToFrontPage(this.redirectTimerDelays.ended);
+      this.timerService.start(this.redirectTimerDelays.ended);
     }
-  }
-
-  redirectToFrontPage = (delay: number) => {
-    this.redirectTimer = setTimeout(() => {
-      this.configurationService.page = this.configurationService.pages[0];
-      this.configurationService.category = null;
-      this.configurationService.exercise = null;
-      this.configurationService.title = '';
-    }, delay);
   }
 }
