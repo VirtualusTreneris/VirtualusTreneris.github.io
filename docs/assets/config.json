@@ -3,17 +3,18 @@
 		[
 			{"name": "Anastasia Funkcine 1", "url": "https://www.youtube.com/watch?v=VB5iHZtKnbM"},
 			{"name": "Anastasia Funkcine 2", "url": "https://www.youtube.com/watch?v=BYzJuLsBal4"},
-			{"name": "Mantvile Funkcine", "url": "https://www.youtube.com/watch?v=YncJjKLNgmE"},
+			{"name": "Mantvile Funkcine", "url": "https://www.youtube.com/watch?v=CzqWlT45mUQ"},
 			{"name": "Mindaugas Funkcine 1", "url": "https://www.youtube.com/watch?v=X09TiH5VaGo"},
-			{"name": "Mindaugas Funkcine 2", "url": "https://www.youtube.com/watch?v=MywAP2ikqGE"}
+			{"name": "Mindaugas Funkcine 2", "url": "https://www.youtube.com/watch?v=1mObTOAiNS8"},
+			{"name": "Mindaugas Funkcine 3", "url": "https://www.youtube.com/watch?v=zuoJx1xvJjY"}
 
 		]
 	}, 
 	{"name": "HIIT", "children": 
 		[
-			{"name": "Greta Intervaline", "url": "https://www.youtube.com/watch?v=GX9fLcnYR7Q"},
+			{"name": "Greta Intervaline", "url": "https://www.youtube.com/watch?v=t4EOtxf86ms"},
 			{"name": "Mindaugas HIT 1", "url": "https://www.youtube.com/watch?v=cU-362yzMCY"},
-			{"name": "Mindaugas HIT 2", "url": "https://www.youtube.com/watch?v=G3GoBL333iM"}
+			{"name": "Mindaugas HIT 2", "url": "https://www.youtube.com/watch?v=hUbWih4RqE4"}
 			
 
 		]
@@ -45,7 +46,6 @@
 	{"name": "ZUMBA", "children": 
 		[
 			{"name": "Mantvile Zumba", "url": "https://www.youtube.com/watch?v=M_RC19WnbW8"}
-
 		]
 	}
 ]
