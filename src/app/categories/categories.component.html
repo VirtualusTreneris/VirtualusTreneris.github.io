@@ -1,9 +1,0 @@
-<div class="categories" >
-    <div *ngIf="!isCategorySelected" class="top35 py50">
-        <ng-container *ngFor="let category of categories">
-            <a (click)="handleClick(category)" class="btn-link">{{ category.name }}</a>
-        </ng-container>
-    </div>
-
-    <app-exercises *ngIf="isCategorySelected"></app-exercises>
-</div>
