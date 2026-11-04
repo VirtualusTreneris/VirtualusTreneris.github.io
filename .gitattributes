@@ -1,0 +1,11 @@
+# Always LF in the repo and in the working copy, whatever core.autocrlf says.
+* text=auto eol=lf
+
+# Binary files: never touch line endings.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.ico binary
+*.woff binary
+*.woff2 binary
